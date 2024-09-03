@@ -1,0 +1,123 @@
+#infro {
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    color: darkolivegreen;
+    object-fit: cover;
+    font-family: sans-serif;
+}
+
+#top-image {
+
+    width: 100%;
+    height: 150px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+#butterfly-image {
+    width: 100%;
+    height: 230px;
+    border-radius: 8px;
+}
+
+span {
+    color: rgb(98, 135, 146);
+    margin-top: 0px;
+}
+
+
+
+#footer {
+    background-color: aliceblue;
+    padding: 8px;
+    margin-top: 32px;
+    border-radius: 10px;
+
+}
+
+#footer-link {
+    list-style: none;
+    text-align: center;
+}
+
+#footer-link li {
+    display: inline;
+    margin: 0 16px;
+}
+
+
+#about {
+    display: flex;
+    max-width: 800px;
+    margin: 0px auto;
+    padding: 10px;
+}
+
+#description {
+    width: 50%;
+    padding-right: 40px;
+}
+
+#team {
+    width: 50%;
+}
+
+#programs {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 8px;
+
+}
+
+#infro2 {
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    color: darkolivegreen;
+    object-fit: cover;
+    font-size: xx-large;
+    font-family: sans-serif;
+    margin-top: 50px;
+}
+
+#navbar {
+    background-color: black;
+    color: lightgreen;
+    width: 300px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+h3 {
+    margin-bottom: 9px;
+    margin-top: 8px;
+}
+
+.apply {
+    float: right;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(1, 5, 255)
+}
+a:hover a:focus {
+    color: rgb(6, 6, 252);
+}
+
+.copy {
+    text-align: center;
+    margin-top: 100px;
+    border-radius: 10px;
+    background-color: rgb(238, 236, 236);
+    margin:  auto;
+}
+html {
+    /*background-image: url("butterfly.png");*/
+}
+#copyright {
+    width: 20px;
+    height: 20px;
+    
+}
